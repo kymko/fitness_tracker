@@ -1,0 +1,76 @@
+{
+      "fields": [
+        {
+          "id": "first_name",
+          "name": "first_name",
+          "label": "First Name",
+          "hint": "Enter your first name",
+          "initialValue": "",
+          "fieldType": "text",
+          "options": null,
+          "isRequired": true,
+          "validationErrorMessage": "Please enter your first name"
+        },
+
+        {
+          "id": "first_name",
+          "name": "first_name",
+          "label": "First Name",
+          "hint": "Enter your first name",
+          "initialValue": "",
+          "fieldType": "text",
+          "options": null,
+          "isRequired": true,
+          "validationErrorMessage": "Please enter your first name"
+        },
+
+        {
+          "id": "first_name",
+          "name": "first_name",
+          "label": "First Name",
+          "hint": "Enter your first name",
+          "initialValue": "",
+          "fieldType": "text",
+          "options": null,
+          "isRequired": true,
+          "validationErrorMessage": "Please enter your first name"
+        },
+
+        {
+          "id": "last_name",
+          "name": "last_name",
+          "label": "Last Name",
+          "hint": "Enter your last name",
+          "initialValue": "",
+          "fieldType": "text",
+          "options": null,
+          "isRequired": true,
+          "validationErrorMessage": "Please enter your last name"
+        },
+
+        {
+              "id": "gender",
+              "name": "gender",
+              "label": "Gender",
+              "hint": "Select your gender",
+              "initialValue": "",
+              "fieldType": "radio",
+              "options": [
+                {
+                  "value": "male",
+                  "display": "Male"
+                },
+                {
+                  "value": "female",
+                  "display": "Female"
+                },
+                {
+                  "value": "other",
+                  "display": "Other"
+                }
+              ],
+              "isRequired": true,
+              "validationErrorMessage": "Please select your gender"
+            }
+      ]
+}
